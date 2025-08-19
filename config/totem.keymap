@@ -104,7 +104,7 @@
         Sym {
             display-name = "Sym";
             bindings = <
-                &kp CIRC    &kp LS(GRAVE)   &trans      &kp BSLH    &kp LS(N1)          &kp LS(MINUS)   &kp RA(RBRC)    &kp LS(RBRC)    &trans      &trans
+                &kp GRAVE   &kp LS(GRAVE)   &trans      &kp BSLH    &kp LS(N1)          &kp LS(MINUS)   &kp RA(RBRC)    &kp LS(RBRC)    &trans      &trans
                 &kp NUBS    &kp RA(N8)      &kp RA(N7)  &kp LS(N8)  &kp LS(N7)          &kp RA(MINUS)   &kp LS(N9)      &kp RA(N0)      &kp RA(N8)  &kp LS(NUBS)
 &studio_unlock  &trans      &trans          &trans      &kp EQL     &trans              &trans          &kp RA(NUBS)    &trans          &trans      &trans          &trans
                                             &trans      &trans      &trans              &trans          &trans          &trans
