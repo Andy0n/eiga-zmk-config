@@ -11,7 +11,7 @@
         // zmk,kscan = &kscan0;
         zephyr,display = &oled;
     };
-}
+};
 
  &kscan0 {
      col-gpios
